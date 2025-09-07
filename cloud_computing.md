@@ -1,6 +1,5 @@
 # Cloud Computing
 
-![Cloud Computing Cover](https://images.unsplash.com/photo-1612831663547-d4f1a0de4c5c?auto=format&fit=crop&w=1350&q=80)
 
 Cloud computing is one of the most important technologies of the modern era. It allows individuals and businesses to use computing resources like servers, storage, and applications over the internet without needing physical hardware on-site.
 
@@ -22,7 +21,6 @@ Instead of running programs or storing data on your personal computer, the cloud
 
 ## Types of Cloud Services
 
-![Cloud Services Diagram](https://images.unsplash.com/photo-1581090700227-047b8fefb882?auto=format&fit=crop&w=1350&q=80)
 
 Cloud services are usually divided into three main categories:
 
